@@ -40,6 +40,40 @@ I enjoy transforming raw data into actionable insights through dashboards, visua
 - Dashboard Design
 - Data Storytelling
 
+# Featured Projects
+
+### 🧠 Decision Lab
+
+Interactive decision-making tool designed to evaluate complex choices under uncertainty using probability, risk analysis and emotional weighting.
+
+**Key Features**
+- Expected Value analysis
+- Risk measurement using standard deviation
+- Emotional Weight Index (EWI)
+- Monte Carlo simulation
+- Interactive decision dashboard
+
+**Tools:** Python, Streamlit, Pandas, NumPy, Matplotlib
+
+🎯 Focused on combining analytics and human decision-making into a practical interactive experience.
+
+🔗 [Live App](https://decisionlab-9uicczafrxvvqnsx77xappj.streamlit.app/)
+
+### 💍 Wedding & Events Analytics
+
+Business intelligence project focused on consumer behavior, budgeting trends and strategic insights in the wedding and events industry.
+
+**Planned Features**
+- Wedding budget analysis
+- Seasonal demand trends
+- Vendor and service segmentation
+- Consumer behavior insights
+- Interactive dashboards
+
+**Tools:** SQL, Python, Power BI, Tableau
+
+🎯 Focused on transforming event industry data into actionable business insights and strategic recommendations.
+
 ## Current Focus
 
 - Building Business Intelligence dashboards
