@@ -1,9 +1,14 @@
 # Daniela Luna 👋
+Business & Data Analyst focused on business insights, dashboards and storytelling.
+
+📊 SQL | Python | Power BI | Tableau  
+📈 Business Analysis | Data Visualization | Strategic Insights
 
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
-![Python](https://img.shields.io/badge/Python-Analytics-yellow)
-![PowerBI](https://img.shields.io/badge/PowerBI-Dashboarding-green)
+![Python](https://img.shields.io/badge/Python-Data_Analytics-yellow)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboards-green)
 ![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-lightgrey)
 
 Business & Data Analyst transforming data into strategic insights through dashboards, storytelling and visualization.
 
