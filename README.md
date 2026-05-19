@@ -45,10 +45,11 @@ I enjoy transforming raw data into actionable insights through dashboards, visua
 ### 🧠 Decision Lab
 <img width="808" height="529" alt="image" src="https://github.com/user-attachments/assets/157f11a9-cfb9-4214-a1c4-befb4f9026d7" />
 
-
 Interactive decision-making tool designed to evaluate complex choices under uncertainty using probability, risk analysis and emotional weighting.
-<img width="805" height="459" alt="image" src="https://github.com/user-attachments/assets/8bb4f76c-244b-4a8c-be03-8398cfd4cac4" />
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8bb4f76c-244b-4a8c-be03-8398cfd4cac4" width="700">
+</p>
 
 **Key Features**
 - Expected Value analysis
