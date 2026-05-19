@@ -43,7 +43,10 @@ I enjoy transforming raw data into actionable insights through dashboards, visua
 # Featured Projects
 
 ### 🧠 Decision Lab
-<img width="808" height="529" alt="image" src="https://github.com/user-attachments/assets/157f11a9-cfb9-4214-a1c4-befb4f9026d7" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/157f11a9-cfb9-4214-a1c4-befb4f9026d7" width="600">
+</p>
 
 Interactive decision-making tool designed to evaluate complex choices under uncertainty using probability, risk analysis and emotional weighting.
 
@@ -58,15 +61,19 @@ Interactive decision-making tool designed to evaluate complex choices under unce
 - Monte Carlo simulation
 - Interactive decision dashboard
 
-<img width="820" height="537" alt="image" src="https://github.com/user-attachments/assets/409b9c00-4cfa-46a8-b705-7ea1c7436deb" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/409b9c00-4cfa-46a8-b705-7ea1c7436deb" width="550">
+</p>
 
 **Tools:** Python, Streamlit, Pandas, NumPy, Matplotlib
 
 🎯 Focused on combining analytics and human decision-making into a practical interactive experience.
 
-<img width="414" height="532" alt="image" src="https://github.com/user-attachments/assets/e06749e4-bbcf-4392-99ad-b5feaea78d75" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e06749e4-bbcf-4392-99ad-b5feaea78d75" width="350">
+</p>
 
-
+🔗 [Repository](https://github.com/danielalunacadena/decision_lab)
 🔗 [Live App](https://decisionlab-9uicczafrxvvqnsx77xappj.streamlit.app/)
 
 ### 💍 Wedding & Events Analytics
