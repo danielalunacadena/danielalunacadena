@@ -47,6 +47,8 @@ I enjoy transforming raw data into actionable insights through dashboards, visua
 
 
 Interactive decision-making tool designed to evaluate complex choices under uncertainty using probability, risk analysis and emotional weighting.
+<img width="805" height="459" alt="image" src="https://github.com/user-attachments/assets/8bb4f76c-244b-4a8c-be03-8398cfd4cac4" />
+
 
 **Key Features**
 - Expected Value analysis
@@ -55,9 +57,14 @@ Interactive decision-making tool designed to evaluate complex choices under unce
 - Monte Carlo simulation
 - Interactive decision dashboard
 
+<img width="820" height="537" alt="image" src="https://github.com/user-attachments/assets/409b9c00-4cfa-46a8-b705-7ea1c7436deb" />
+
 **Tools:** Python, Streamlit, Pandas, NumPy, Matplotlib
 
 🎯 Focused on combining analytics and human decision-making into a practical interactive experience.
+
+<img width="414" height="532" alt="image" src="https://github.com/user-attachments/assets/e06749e4-bbcf-4392-99ad-b5feaea78d75" />
+
 
 🔗 [Live App](https://decisionlab-9uicczafrxvvqnsx77xappj.streamlit.app/)
 
