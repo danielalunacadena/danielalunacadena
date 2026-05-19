@@ -43,6 +43,8 @@ I enjoy transforming raw data into actionable insights through dashboards, visua
 # Featured Projects
 
 ### 🧠 Decision Lab
+<img width="808" height="529" alt="image" src="https://github.com/user-attachments/assets/157f11a9-cfb9-4214-a1c4-befb4f9026d7" />
+
 
 Interactive decision-making tool designed to evaluate complex choices under uncertainty using probability, risk analysis and emotional weighting.
 
