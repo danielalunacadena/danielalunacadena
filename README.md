@@ -1,36 +1,48 @@
-# Hi, I'm Daniela Luna 👋
+# Daniela Luna 👋
 
-Business & Data Analyst focused on transforming data into actionable insights through visualization, storytelling and strategic analysis.
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
+![Python](https://img.shields.io/badge/Python-Analytics-yellow)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboarding-green)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
+
+Business & Data Analyst transforming data into strategic insights through dashboards, storytelling and visualization.
 
 ## About Me
 
-I'm a Business Administrator transitioning into Business & Data Analytics, passionate about turning raw data into meaningful insights and strategic decisions.
+Business Administrator transitioning into Business & Data Analytics with a strong interest in business intelligence, customer insights and strategic decision-making.
 
-I enjoy combining analytics, visualization and storytelling to create impactful dashboards and business-focused projects.
+I enjoy transforming raw data into actionable insights through dashboards, visualization and storytelling-focused analysis.
 
-## Skills
+## Tech Stack
 
+**Languages & Databases**
 - SQL
 - Python
+- PostgreSQL
+
+**Data Analysis**
+- Pandas
+- Exploratory Data Analysis
+- Statistical Analysis
+
+**Visualization & BI**
 - Power BI
 - Tableau
-- Pandas
-- PostgreSQL
-- Excel
-- Data Visualization
+- Matplotlib
 
-## Featured Projects
+**Business Skills**
+- Business Analysis
+- Dashboard Design
+- Data Storytelling
 
-### Chicago Taxi Analysis
-SQL + Python project analyzing taxi ride behavior, weather impact and customer patterns in Chicago.
+## Current Focus
 
-## Currently Working On
-
-- Business Intelligence dashboards
-- Wedding & Events Analytics project
-- SQL and Python portfolio projects
+- Building Business Intelligence dashboards
+- Developing end-to-end analytics projects
+- Exploring customer and consumer insights
+- Improving storytelling through data visualization
 
 ## Contact
 
-- LinkedIn
-- Email
+- LinkedIn www.linkedin.com/in/daniela-luna-cadena 
+- Email danielalunacadena@outlook.com 
