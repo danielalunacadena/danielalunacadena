@@ -91,6 +91,21 @@ Business intelligence project focused on consumer behavior, budgeting trends and
 
 🎯 Focused on transforming event industry data into actionable business insights and strategic recommendations.
 
+### 🚕 Chicago Taxi Analysis
+
+Business analytics project exploring taxi ride patterns, weather impact and customer behavior in Chicago using SQL and Python.
+
+**Planned Analysis**
+- Taxi company performance analysis
+- Ride distribution across neighborhoods
+- Weather impact on trip duration
+- Hypothesis testing and statistical analysis
+- Exploratory data analysis and visual storytelling
+
+**Tools:** SQL, Python, Pandas, Matplotlib, SciPy
+
+🎯 Focused on transforming transportation and weather data into actionable business insights and data-driven recommendations.
+
 ## Current Focus
 
 - Building Business Intelligence dashboards
